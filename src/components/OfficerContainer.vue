@@ -34,7 +34,7 @@
             officer-photo="Lincoln-photo.jpg"
         />
 
-        <officer-card
+        <officer-card 
             officer-name="Zane Weaver"
             officer-title="Secretary"
             officer-email="zaweaver@millersville.edu"
